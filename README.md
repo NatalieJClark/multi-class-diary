@@ -2,6 +2,7 @@
 
 ## Introduction
 - This is my repo for Makers Module 2 - Golden Square: Test Driving a Multi Class System
+- This project was a exercise for this module
 - It contains a Diary class and a DiaryEntry class, as well as unit and integration tests
 - The user can create DiaryEntry objects and add them to a Diary object
 - The user can also:
